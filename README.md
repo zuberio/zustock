@@ -31,7 +31,7 @@ Special thanks to -
 
 Johann C. Rocholl for all the great work on Delta printers and firmware.
 
-Richard Horne (RichRap) from whom I've pretty much copied and pasted this GitHub repository.
+Richard Horne (RichRap) from whom I've pretty much copied and pasted this GitHub repository. http://richrap.github.io/3DR-Delta-Printer/
 
 I hope this work has been of some use to you, if you wish to say hello or donate towards further developments please stay tuned.
 
