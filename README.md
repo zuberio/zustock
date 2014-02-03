@@ -20,7 +20,7 @@ Everything else (Based on Kossel Mini recommended print settings)
 - Top/bottom solid layers = 3
 - Infill density = 50% 
 
-More to come ...
+More to come...
 
 ##### Description
 ZUSTOCK
