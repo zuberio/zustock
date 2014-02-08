@@ -1,7 +1,7 @@
 ZUSTOCK
 ===
 
-Zustock is a RepRap Delta printer. Designed by Omar Zuberi (Aka zuberio)
+Zustock is a RepRap Delta printer.
 
 The design is heavily inspired by the fantastic Rostock, Kossel, 3DR, and Boots Industries 3D printers.
 
