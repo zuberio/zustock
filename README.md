@@ -42,6 +42,7 @@ Boots Industries (http://bootsindustries.com/) for their fantastic Rostock BI V1
 - Linear Motion Cable Idler<br/>
 - Linear Motion Cable Spool<br/>
 - Linear Motion Carriage Main (modified)<br/>
+- Extruder Compression Arm Hinge (modified)<br/>
 
 Skarab for his great Lautr3k (http://www.thingiverse.com/thing:221726) 3D printer Sketchup model from which I grabbed a bunch of finishing touches.<br/>
 - Effector 30mm fan holder (modified)<br/>
