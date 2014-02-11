@@ -25,8 +25,7 @@ View this page and all the files here - http://zuberio.github.io/zustock/
 Many people and projects have provided inspiration for this printer design. I would like to thank everyone working on RepRap projects the world over. 
 Special thanks to - 
 
-Johann C. Rocholl for all the amazing work on the Rostock and Kossel Mini Delta printers and Delta printer firmware.
-(https://github.com/jcrocholl)<br/>
+Johann C. Rocholl (https://github.com/jcrocholl) for all the amazing work on the Rostock and Kossel Mini Delta printers and Delta printer firmware.<br/>
 - Diagonal Arms Gimbal Point<br/>
 - Diagonal Arms Ends (Forks) (modified)<br/>
 - Retractable Autolevel Probe (modified)<br/>
@@ -34,9 +33,15 @@ Johann C. Rocholl for all the amazing work on the Rostock and Kossel Mini Delta 
 - Linear Motion Motor & Bottom Mount (modified)<br/>
 - Linear Motion Top Mount (modified)<br/>
 
-Richard Horne (RichRap) from whom I've pretty much copied and pasted this GitHub repository. (http://richrap.github.io/3DR-Delta-Printer/)
+Richard Horne (http://richrap.github.io/3DR-Delta-Printer/) from whom I've pretty much copied and pasted this GitHub repository. As well as his remixes of Greg Frost's (http://www.thingiverse.com/GregFrost/designs) fantastic geared extruder.<br/>
+- Extruder Main (modified)<br/>
+- Extruder Compression Arm (modified)<br/>
+- Extruder Pressure Bearing Axle<br/>
 
 Boots Industries for their fantastic Rostock BI V1.0 variant using fishing line & BI V2.0 using PLA carriage bushings on extruded aluminum rails. (http://bootsindustries.com/)
+- Linear Motion Cable Idler<br/>
+- Linear Motion Cable Spool<br/>
+- Linear Motion Carriage Main (modified)<br/>
 
 I hope this work has been of some use to you, if you wish to say hello or donate towards further developments please stay tuned.
 
