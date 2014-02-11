@@ -38,17 +38,31 @@ Richard Horne (http://richrap.github.io/3DR-Delta-Printer/) from whom I've prett
 - Extruder Compression Arm (modified)<br/>
 - Extruder Pressure Bearing Axle<br/>
 
-Boots Industries for their fantastic Rostock BI V1.0 variant using fishing line & BI V2.0 using PLA carriage bushings on extruded aluminum rails. (http://bootsindustries.com/)
+Boots Industries (http://bootsindustries.com/) for their fantastic Rostock BI V1.0 variant using fishing line & BI V2.0 using PLA carriage bushings on extruded aluminum rails.<br/>
 - Linear Motion Cable Idler<br/>
 - Linear Motion Cable Spool<br/>
 - Linear Motion Carriage Main (modified)<br/>
+
+Skarab for his great Lautr3k (http://www.thingiverse.com/thing:221726) 3D printer Sketchup model from which I grabbed a bunch of finishing touches.<br/>
+- Effector 30mm fan holder (modified)<br/>
+- Extruder 40mm fan holder (modified)<br/>
+- Nuts and Bolts (modified)<br/>
+
+Triffid Hunter (http://www.thingiverse.com/thing:10707) for some beautiful Herringbone Gears.<br/>
+- Extruder Large Herringbone Gear<br/>
+- Extruder Small Herringbone Gear<br/>
+
+Zydac (http://www.thingiverse.com/thing:156860) for the idea behind his Rostock J-head mount.<br/>
+- Effector Jhead Standoff 1o3 (heavily modified)<br/>
+- Effector Jhead Standoff 2o3 (heavily modified)<br/>
+- Effector Jhead Bowden Clamp (heavily modified)<br/>
 
 I hope this work has been of some use to you, if you wish to say hello or donate towards further developments please stay tuned.
 
 Please see www.reprap.org for information about the RepRap Project and visit the RepRap forum at http://forums.reprap.org/
 
 ##### 3D Print Settings
-Herringbone Gears (By Triffid Hunter - http://www.thingiverse.com/thing:10707)<br/>
+Herringbone Gears<br/>
 - This is a detailed part (due to the tooth profiles) so use your smallest nozzle.<br/>
 - Print in PLA, it will last a lot longer due to being harder than ABS.<br/>
 - Set 0 extra shells (skeinforge)/ 1 perimeter (slic3r) because you can get hollow teeth with extra shells/perimeters.<br/>
